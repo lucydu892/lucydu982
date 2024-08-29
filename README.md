@@ -1,2 +1,2 @@
-# lucydu982
+# Lucydu982
 My personal repository.
